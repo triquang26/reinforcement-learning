@@ -56,8 +56,7 @@ The purpose of this project is to implement a Q-learning algorithm to solve the 
 ### References and Further Reading
 - [OpenAI Gym Documentation](https://gym.openai.com/docs/)
 - [Q-learning Algorithm](https://en.wikipedia.org/wiki/Q-learning)
-- [Reinforcement Learning Keynote 1](link-to-your-pdf1.pdf)
-- [Reinforcement Learning Keynote 2](link-to-your-pdf2.pdf)
+- [Reinforcement Learning Keynote](https://drive.google.com/file/d/1cn1YwdCApTZIpHm4bParQtfAT6W9I__D/view?usp=drive_link)
 
 ## Project 2: LunarLander-v2 Policy Gradient
 
