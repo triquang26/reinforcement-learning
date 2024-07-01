@@ -10,6 +10,7 @@
     - [References and Further Reading](#references-and-further-reading)
 2. [Project 2: LunarLander-v2 Policy Gradient](#project-2-lunarlander-v2-policy-gradient)
     - [Project Purpose](#project-purpose-1)
+    - [Knowledge Contribution](#knowledge-contribution-1)
     - [Pipeline Architecture](#pipeline-architecture-1)
     - [Instructions to Run](#instructions-to-run-1)
     - [Libraries and Versions](#libraries-and-versions-1)
@@ -62,6 +63,13 @@ The purpose of this project is to implement a Q-learning algorithm to solve the 
 
 ### Project Purpose
 The purpose of this project is to implement a policy gradient algorithm using a neural network to solve the LunarLander-v2 environment from OpenAI Gym. The agent learns to control the lunar lander to land it safely on the landing pad.
+
+### Knowledge Contribution
+- **Algorithm Implementation**: Detail the implementation of the policy gradient algorithm and how you executed it.
+- **Neural Network Design**: Describe the architecture of the neural network policy and how you designed it.
+- **Training and Optimization**: Explain the process of training the neural network using the REINFORCE algorithm and the optimization techniques applied.
+- **Evaluation and Analysis**: Present the methods used for evaluation and analysis of results.
+- **Visualization and Documentation**: Describe the tools and methods you used for visualizing and documenting the project.
 
 ### Pipeline Architecture
 1. **Environment Setup**: Initialize the LunarLander-v2 environment.
