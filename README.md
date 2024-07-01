@@ -101,5 +101,4 @@ The purpose of this project is to implement a policy gradient algorithm using a 
 - [OpenAI Gym Documentation](https://gym.openai.com/docs/)
 - [Policy Gradient Methods](https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html)
 - [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
-- [Reinforcement Learning Keynote 1](link-to-your-pdf1.pdf)
-- [Reinforcement Learning Keynote 2](link-to-your-pdf2.pdf)
+- [Reinforcement Learning Keynote](https://drive.google.com/file/d/1cn1YwdCApTZIpHm4bParQtfAT6W9I__D/view?usp=drive_link)
