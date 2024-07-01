@@ -45,7 +45,10 @@ The purpose of this project is to implement a Q-learning algorithm to solve the 
     ```bash
     pip install -r requirements.txt
     ```
-
+3. **Running Colab**:
+    ```bash
+    https://drive.google.com/file/d/1cC4qNur-oqFzwFOTleY5SHHaBfDVDnxC/view?usp=sharing
+    ```
 ### Libraries and Versions
 - Python 3.8
 - NumPy 1.19.2
@@ -88,7 +91,10 @@ The purpose of this project is to implement a policy gradient algorithm using a 
     ```bash
     pip install -r requirements.txt
     ```
-
+3. **Running on Colab**
+   ```bash
+    https://drive.google.com/file/d/1f-KwFePzsa9Uk1wPFSIOUkPM1ghnqINf/view?usp=sharing
+   ```
 ### Libraries and Versions
 - Python 3.8
 - NumPy 1.19.2
